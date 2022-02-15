@@ -3,6 +3,7 @@ A simple CRUD project created with PHP.
 ## Software used:
 * VS Code
 * XAMPP
+* Microsoft Edge
 
 ## How to install:
 1. Download this project or use git clone https://github.com/coricss/CRUD-Online-Shopping.git
